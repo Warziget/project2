@@ -1,5 +1,5 @@
        Original script from : Kyominii --> https://forum.fivem.net/t/release-cops-fivem-v1-2-0-06-05-2017/17460
-       Modification by Warziget 
+       Modification by Warziget --> https://github.com/Warziget/project2/blob/master/CopFiveM-modif.md
 
         ---------------------- You need to put it just below the "end)" of the "remove yellow jacket" ------
         ---------------------- You also need to add buttons in config.lua ----------------------------------
@@ -41,4 +41,4 @@
        ---------------- (I didn't post the end of the code but you know where it take place)----------------------------
        
        Original script from : Kyominii --> https://forum.fivem.net/t/release-cops-fivem-v1-2-0-06-05-2017/17460
-       Modification by Warziget 
+       Modification by Warziget --> https://github.com/Warziget/project2/blob/master/CopFiveM-modif.md
