@@ -7,9 +7,9 @@
         elseif btn == txt[config.lang]["cloackroom_add_police_cap_title"] then
             Citizen.CreateThread(function()
                 if(GetEntityModel(GetPlayerPed(-1)) == hashSkin) then
-                    SetPedPropIndex(GetPlayerPed(-1), 0, 46, 0, 2) -- casquette de police
+                    SetPedPropIndex(GetPlayerPed(-1), 0, 46, 0, 2) -- Casquette de police
                 else
-                    SetPedPropIndex(GetPlayerPed(-1), 0, 46, 0, 2) -- casquette de police
+                    SetPedPropIndex(GetPlayerPed(-1), 0, 46, 0, 2) -- Casquette de police
                 end
             end)
         elseif btn == txt[config.lang]["cloackroom_remove_police_cap_title"] then
@@ -21,7 +21,7 @@
        ----------------- Directly in "giveUniform" or you personal fonction --------------------------------------------
        
        function giveUniforme()
-    Citizen.CreateThread(function()
+        Citizen.CreateThread(function()
         if(config.enableOutfits == true) then
             if(GetEntityModel(GetPlayerPed(-1)) == hashSkin) then
 
